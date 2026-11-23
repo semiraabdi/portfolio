@@ -19,10 +19,12 @@ body{
     padding:40px;
 
     background:
-    radial-gradient(circle at top left,
-        #f0ece5 0%,
-        #e8e1d6 35%,
-        #dcd2c3 100%);
+    linear-gradient(
+        135deg,
+        #ede7de,
+        #d9d0c2,
+        #c7b8a3
+    );
 }
 
 h1{
